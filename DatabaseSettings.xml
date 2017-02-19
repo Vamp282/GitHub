@@ -3,5 +3,5 @@
   <ServerVersion>Sql2014</ServerVersion>
   <ServerName>DESKTOP-9BCAHHD\SQLEXPRESS</ServerName>
   <DatabaseName>axGitHub</DatabaseName>
-  <DatabaseInformation Version="1" />
+  <DatabaseInformation Version="2" />
 </DatabaseSettings>
